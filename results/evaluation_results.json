@@ -1,0 +1,746 @@
+{
+  "results": [
+    {
+      "problem": "80 加 16 是多少？",
+      "correct_answer": "96",
+      "model_answer": "96",
+      "is_correct": true,
+      "problem_type": "2D+"
+    },
+    {
+      "problem": "19 加 97 是多少？",
+      "correct_answer": "116",
+      "model_answer": "116",
+      "is_correct": true,
+      "problem_type": "2D+"
+    },
+    {
+      "problem": "44 加 90 是多少？",
+      "correct_answer": "134",
+      "model_answer": "134",
+      "is_correct": true,
+      "problem_type": "2D+"
+    },
+    {
+      "problem": "15 加 86 是多少？",
+      "correct_answer": "101",
+      "model_answer": "101",
+      "is_correct": true,
+      "problem_type": "2D+"
+    },
+    {
+      "problem": "30 加 51 是多少？",
+      "correct_answer": "81",
+      "model_answer": "81",
+      "is_correct": true,
+      "problem_type": "2D+"
+    },
+    {
+      "problem": "42 加 43 是多少？",
+      "correct_answer": "85",
+      "model_answer": "85",
+      "is_correct": true,
+      "problem_type": "2D+"
+    },
+    {
+      "problem": "9 加 79 是多少？",
+      "correct_answer": "88",
+      "model_answer": "88",
+      "is_correct": true,
+      "problem_type": "2D+"
+    },
+    {
+      "problem": "39 加 59 是多少？",
+      "correct_answer": "98",
+      "model_answer": "98",
+      "is_correct": true,
+      "problem_type": "2D+"
+    },
+    {
+      "problem": "15 加 68 是多少？",
+      "correct_answer": "83",
+      "model_answer": "83",
+      "is_correct": true,
+      "problem_type": "2D+"
+    },
+    {
+      "problem": "94 加 53 是多少？",
+      "correct_answer": "147",
+      "model_answer": "147",
+      "is_correct": true,
+      "problem_type": "2D+"
+    },
+    {
+      "problem": "95 减 18 是多少？",
+      "correct_answer": "77",
+      "model_answer": "77",
+      "is_correct": true,
+      "problem_type": "2D-"
+    },
+    {
+      "problem": "82 减 73 是多少？",
+      "correct_answer": "9",
+      "model_answer": "9",
+      "is_correct": true,
+      "problem_type": "2D-"
+    },
+    {
+      "problem": "10 减 26 是多少？",
+      "correct_answer": "-16",
+      "model_answer": "-16",
+      "is_correct": true,
+      "problem_type": "2D-"
+    },
+    {
+      "problem": "86 减 30 是多少？",
+      "correct_answer": "56",
+      "model_answer": "56",
+      "is_correct": true,
+      "problem_type": "2D-"
+    },
+    {
+      "problem": "73 减 80 是多少？",
+      "correct_answer": "-7",
+      "model_answer": "-7",
+      "is_correct": true,
+      "problem_type": "2D-"
+    },
+    {
+      "problem": "95 减 16 是多少？",
+      "correct_answer": "79",
+      "model_answer": "79",
+      "is_correct": true,
+      "problem_type": "2D-"
+    },
+    {
+      "problem": "62 减 8 是多少？",
+      "correct_answer": "54",
+      "model_answer": "54",
+      "is_correct": true,
+      "problem_type": "2D-"
+    },
+    {
+      "problem": "35 减 82 是多少？",
+      "correct_answer": "-47",
+      "model_answer": "-47",
+      "is_correct": true,
+      "problem_type": "2D-"
+    },
+    {
+      "problem": "65 减 88 是多少？",
+      "correct_answer": "-23",
+      "model_answer": "-23",
+      "is_correct": true,
+      "problem_type": "2D-"
+    },
+    {
+      "problem": "25 减 36 是多少？",
+      "correct_answer": "-11",
+      "model_answer": "-11",
+      "is_correct": true,
+      "problem_type": "2D-"
+    },
+    {
+      "problem": "547 加 38 是多少？",
+      "correct_answer": "585",
+      "model_answer": "585",
+      "is_correct": true,
+      "problem_type": "3D+"
+    },
+    {
+      "problem": "36 加 400 是多少？",
+      "correct_answer": "436",
+      "model_answer": "436",
+      "is_correct": true,
+      "problem_type": "3D+"
+    },
+    {
+      "problem": "538 加 560 是多少？",
+      "correct_answer": "1098",
+      "model_answer": "1098",
+      "is_correct": true,
+      "problem_type": "3D+"
+    },
+    {
+      "problem": "363 加 40 是多少？",
+      "correct_answer": "403",
+      "model_answer": "403",
+      "is_correct": true,
+      "problem_type": "3D+"
+    },
+    {
+      "problem": "372 加 667 是多少？",
+      "correct_answer": "1039",
+      "model_answer": "1039",
+      "is_correct": true,
+      "problem_type": "3D+"
+    },
+    {
+      "problem": "573 加 556 是多少？",
+      "correct_answer": "1129",
+      "model_answer": "1129",
+      "is_correct": true,
+      "problem_type": "3D+"
+    },
+    {
+      "problem": "932 加 683 是多少？",
+      "correct_answer": "1615",
+      "model_answer": "1615",
+      "is_correct": true,
+      "problem_type": "3D+"
+    },
+    {
+      "problem": "360 加 905 是多少？",
+      "correct_answer": "1265",
+      "model_answer": "1265",
+      "is_correct": true,
+      "problem_type": "3D+"
+    },
+    {
+      "problem": "692 加 912 是多少？",
+      "correct_answer": "1604",
+      "model_answer": "1604",
+      "is_correct": true,
+      "problem_type": "3D+"
+    },
+    {
+      "problem": "726 加 108 是多少？",
+      "correct_answer": "834",
+      "model_answer": "834",
+      "is_correct": true,
+      "problem_type": "3D+"
+    },
+    {
+      "problem": "282 减 513 是多少？",
+      "correct_answer": "-231",
+      "model_answer": "-231",
+      "is_correct": true,
+      "problem_type": "3D-"
+    },
+    {
+      "problem": "484 减 899 是多少？",
+      "correct_answer": "-415",
+      "model_answer": "-415",
+      "is_correct": true,
+      "problem_type": "3D-"
+    },
+    {
+      "problem": "975 减 545 是多少？",
+      "correct_answer": "430",
+      "model_answer": "430",
+      "is_correct": true,
+      "problem_type": "3D-"
+    },
+    {
+      "problem": "11 减 950 是多少？",
+      "correct_answer": "-939",
+      "model_answer": "-939",
+      "is_correct": true,
+      "problem_type": "3D-"
+    },
+    {
+      "problem": "408 减 584 是多少？",
+      "correct_answer": "-176",
+      "model_answer": "-176",
+      "is_correct": true,
+      "problem_type": "3D-"
+    },
+    {
+      "problem": "157 减 409 是多少？",
+      "correct_answer": "-252",
+      "model_answer": "-252",
+      "is_correct": true,
+      "problem_type": "3D-"
+    },
+    {
+      "problem": "470 减 171 是多少？",
+      "correct_answer": "299",
+      "model_answer": "299",
+      "is_correct": true,
+      "problem_type": "3D-"
+    },
+    {
+      "problem": "823 减 21 是多少？",
+      "correct_answer": "802",
+      "model_answer": "802",
+      "is_correct": true,
+      "problem_type": "3D-"
+    },
+    {
+      "problem": "770 减 719 是多少？",
+      "correct_answer": "51",
+      "model_answer": "51",
+      "is_correct": true,
+      "problem_type": "3D-"
+    },
+    {
+      "problem": "367 减 871 是多少？",
+      "correct_answer": "-504",
+      "model_answer": "-504",
+      "is_correct": true,
+      "problem_type": "3D-"
+    },
+    {
+      "problem": "9071 加 7605 是多少？",
+      "correct_answer": "16676",
+      "model_answer": "16676",
+      "is_correct": true,
+      "problem_type": "4D+"
+    },
+    {
+      "problem": "2598 加 1610 是多少？",
+      "correct_answer": "4208",
+      "model_answer": "4208",
+      "is_correct": true,
+      "problem_type": "4D+"
+    },
+    {
+      "problem": "8392 加 6231 是多少？",
+      "correct_answer": "14623",
+      "model_answer": "14623",
+      "is_correct": true,
+      "problem_type": "4D+"
+    },
+    {
+      "problem": "8174 加 1457 是多少？",
+      "correct_answer": "9631",
+      "model_answer": "9631",
+      "is_correct": true,
+      "problem_type": "4D+"
+    },
+    {
+      "problem": "4645 加 9885 是多少？",
+      "correct_answer": "14530",
+      "model_answer": "14530",
+      "is_correct": true,
+      "problem_type": "4D+"
+    },
+    {
+      "problem": "9838 加 397 是多少？",
+      "correct_answer": "10235",
+      "model_answer": "10235",
+      "is_correct": true,
+      "problem_type": "4D+"
+    },
+    {
+      "problem": "8483 加 1720 是多少？",
+      "correct_answer": "10203",
+      "model_answer": "10203",
+      "is_correct": true,
+      "problem_type": "4D+"
+    },
+    {
+      "problem": "4684 加 4373 是多少？",
+      "correct_answer": "9057",
+      "model_answer": "9057",
+      "is_correct": true,
+      "problem_type": "4D+"
+    },
+    {
+      "problem": "1104 加 3912 是多少？",
+      "correct_answer": "5016",
+      "model_answer": "5016",
+      "is_correct": true,
+      "problem_type": "4D+"
+    },
+    {
+      "problem": "1845 加 8137 是多少？",
+      "correct_answer": "9982",
+      "model_answer": "9982",
+      "is_correct": true,
+      "problem_type": "4D+"
+    },
+    {
+      "problem": "3960 减 525 是多少？",
+      "correct_answer": "3435",
+      "model_answer": "3435",
+      "is_correct": true,
+      "problem_type": "4D-"
+    },
+    {
+      "problem": "8706 减 461 是多少？",
+      "correct_answer": "8245",
+      "model_answer": "8245",
+      "is_correct": true,
+      "problem_type": "4D-"
+    },
+    {
+      "problem": "3109 减 3408 是多少？",
+      "correct_answer": "-299",
+      "model_answer": "-299",
+      "is_correct": true,
+      "problem_type": "4D-"
+    },
+    {
+      "problem": "2604 减 3650 是多少？",
+      "correct_answer": "-1046",
+      "model_answer": "-1046",
+      "is_correct": true,
+      "problem_type": "4D-"
+    },
+    {
+      "problem": "9898 减 6554 是多少？",
+      "correct_answer": "3344",
+      "model_answer": "3344",
+      "is_correct": true,
+      "problem_type": "4D-"
+    },
+    {
+      "problem": "5027 减 2437 是多少？",
+      "correct_answer": "2590",
+      "model_answer": "2590",
+      "is_correct": true,
+      "problem_type": "4D-"
+    },
+    {
+      "problem": "1564 减 6894 是多少？",
+      "correct_answer": "-5330",
+      "model_answer": "-5330",
+      "is_correct": true,
+      "problem_type": "4D-"
+    },
+    {
+      "problem": "8535 减 4320 是多少？",
+      "correct_answer": "4215",
+      "model_answer": "4215",
+      "is_correct": true,
+      "problem_type": "4D-"
+    },
+    {
+      "problem": "6797 减 5990 是多少？",
+      "correct_answer": "807",
+      "model_answer": "807",
+      "is_correct": true,
+      "problem_type": "4D-"
+    },
+    {
+      "problem": "8474 减 2130 是多少？",
+      "correct_answer": "6344",
+      "model_answer": "6344",
+      "is_correct": true,
+      "problem_type": "4D-"
+    },
+    {
+      "problem": "28039 加 54025 是多少？",
+      "correct_answer": "82064",
+      "model_answer": "82064",
+      "is_correct": true,
+      "problem_type": "5D+"
+    },
+    {
+      "problem": "60556 加 90475 是多少？",
+      "correct_answer": "151031",
+      "model_answer": "151031",
+      "is_correct": true,
+      "problem_type": "5D+"
+    },
+    {
+      "problem": "56772 加 6540 是多少？",
+      "correct_answer": "63312",
+      "model_answer": "63312",
+      "is_correct": true,
+      "problem_type": "5D+"
+    },
+    {
+      "problem": "28352 加 19142 是多少？",
+      "correct_answer": "47494",
+      "model_answer": "47494",
+      "is_correct": true,
+      "problem_type": "5D+"
+    },
+    {
+      "problem": "46043 加 75005 是多少？",
+      "correct_answer": "121048",
+      "model_answer": "121048",
+      "is_correct": true,
+      "problem_type": "5D+"
+    },
+    {
+      "problem": "28393 加 26058 是多少？",
+      "correct_answer": "54451",
+      "model_answer": "54451",
+      "is_correct": true,
+      "problem_type": "5D+"
+    },
+    {
+      "problem": "90997 加 35128 是多少？",
+      "correct_answer": "126125",
+      "model_answer": "126125",
+      "is_correct": true,
+      "problem_type": "5D+"
+    },
+    {
+      "problem": "89329 加 60815 是多少？",
+      "correct_answer": "150144",
+      "model_answer": "150144",
+      "is_correct": true,
+      "problem_type": "5D+"
+    },
+    {
+      "problem": "5464 加 49270 是多少？",
+      "correct_answer": "54734",
+      "model_answer": "54734",
+      "is_correct": true,
+      "problem_type": "5D+"
+    },
+    {
+      "problem": "64176 加 92472 是多少？",
+      "correct_answer": "156648",
+      "model_answer": "156648",
+      "is_correct": true,
+      "problem_type": "5D+"
+    },
+    {
+      "problem": "21069 减 44101 是多少？",
+      "correct_answer": "-23032",
+      "model_answer": "-23032",
+      "is_correct": true,
+      "problem_type": "5D-"
+    },
+    {
+      "problem": "28179 减 42434 是多少？",
+      "correct_answer": "-14255",
+      "model_answer": "-14255",
+      "is_correct": true,
+      "problem_type": "5D-"
+    },
+    {
+      "problem": "42529 减 23450 是多少？",
+      "correct_answer": "19079",
+      "model_answer": "19079",
+      "is_correct": true,
+      "problem_type": "5D-"
+    },
+    {
+      "problem": "47397 减 40395 是多少？",
+      "correct_answer": "7002",
+      "model_answer": "7002",
+      "is_correct": true,
+      "problem_type": "5D-"
+    },
+    {
+      "problem": "15939 减 82205 是多少？",
+      "correct_answer": "-66266",
+      "model_answer": "-66266",
+      "is_correct": true,
+      "problem_type": "5D-"
+    },
+    {
+      "problem": "19501 减 13434 是多少？",
+      "correct_answer": "6067",
+      "model_answer": "6067",
+      "is_correct": true,
+      "problem_type": "5D-"
+    },
+    {
+      "problem": "32989 减 64770 是多少？",
+      "correct_answer": "-31781",
+      "model_answer": "-31781",
+      "is_correct": true,
+      "problem_type": "5D-"
+    },
+    {
+      "problem": "37440 减 27764 是多少？",
+      "correct_answer": "9676",
+      "model_answer": "96876",
+      "is_correct": false,
+      "problem_type": "5D-"
+    },
+    {
+      "problem": "74220 减 25144 是多少？",
+      "correct_answer": "49076",
+      "model_answer": "49076",
+      "is_correct": true,
+      "problem_type": "5D-"
+    },
+    {
+      "problem": "98819 减 37346 是多少？",
+      "correct_answer": "61473",
+      "model_answer": "61473",
+      "is_correct": true,
+      "problem_type": "5D-"
+    },
+    {
+      "problem": "98 乘以 98 是多少？",
+      "correct_answer": "9604",
+      "model_answer": "9604",
+      "is_correct": true,
+      "problem_type": "2Dx"
+    },
+    {
+      "problem": "7 乘以 7 是多少？",
+      "correct_answer": "49",
+      "model_answer": "49",
+      "is_correct": true,
+      "problem_type": "2Dx"
+    },
+    {
+      "problem": "18 乘以 10 是多少？",
+      "correct_answer": "180",
+      "model_answer": "180",
+      "is_correct": true,
+      "problem_type": "2Dx"
+    },
+    {
+      "problem": "46 乘以 76 是多少？",
+      "correct_answer": "3496",
+      "model_answer": "3496",
+      "is_correct": true,
+      "problem_type": "2Dx"
+    },
+    {
+      "problem": "38 乘以 70 是多少？",
+      "correct_answer": "2660",
+      "model_answer": "2660",
+      "is_correct": true,
+      "problem_type": "2Dx"
+    },
+    {
+      "problem": "3 乘以 61 是多少？",
+      "correct_answer": "183",
+      "model_answer": "183",
+      "is_correct": true,
+      "problem_type": "2Dx"
+    },
+    {
+      "problem": "44 乘以 62 是多少？",
+      "correct_answer": "2728",
+      "model_answer": "2728",
+      "is_correct": true,
+      "problem_type": "2Dx"
+    },
+    {
+      "problem": "59 乘以 76 是多少？",
+      "correct_answer": "4484",
+      "model_answer": "4484",
+      "is_correct": true,
+      "problem_type": "2Dx"
+    },
+    {
+      "problem": "90 乘以 53 是多少？",
+      "correct_answer": "4770",
+      "model_answer": "4770",
+      "is_correct": true,
+      "problem_type": "2Dx"
+    },
+    {
+      "problem": "72 乘以 56 是多少？",
+      "correct_answer": "4032",
+      "model_answer": "4032",
+      "is_correct": true,
+      "problem_type": "2Dx"
+    },
+    {
+      "problem": "6*(0*7) 是多少？",
+      "correct_answer": "0",
+      "model_answer": "0",
+      "is_correct": true,
+      "problem_type": "1DC"
+    },
+    {
+      "problem": "6-(4+5) 是多少？",
+      "correct_answer": "-3",
+      "model_answer": "-3",
+      "is_correct": true,
+      "problem_type": "1DC"
+    },
+    {
+      "problem": "5+(6-2) 是多少？",
+      "correct_answer": "9",
+      "model_answer": "9",
+      "is_correct": true,
+      "problem_type": "1DC"
+    },
+    {
+      "problem": "9+(9+8) 是多少？",
+      "correct_answer": "26",
+      "model_answer": "26",
+      "is_correct": true,
+      "problem_type": "1DC"
+    },
+    {
+      "problem": "7*(5*5) 是多少？",
+      "correct_answer": "175",
+      "model_answer": "175",
+      "is_correct": true,
+      "problem_type": "1DC"
+    },
+    {
+      "problem": "2*(7+8) 是多少？",
+      "correct_answer": "30",
+      "model_answer": "30",
+      "is_correct": true,
+      "problem_type": "1DC"
+    },
+    {
+      "problem": "5+(4*9) 是多少？",
+      "correct_answer": "41",
+      "model_answer": "41",
+      "is_correct": true,
+      "problem_type": "1DC"
+    },
+    {
+      "problem": "6+(2*9) 是多少？",
+      "correct_answer": "24",
+      "model_answer": "24",
+      "is_correct": true,
+      "problem_type": "1DC"
+    },
+    {
+      "problem": "8*(9-5) 是多少？",
+      "correct_answer": "32",
+      "model_answer": "32",
+      "is_correct": true,
+      "problem_type": "1DC"
+    },
+    {
+      "problem": "0+(6*0) 是多少？",
+      "correct_answer": "0",
+      "model_answer": "0",
+      "is_correct": true,
+      "problem_type": "1DC"
+    }
+  ],
+  "statistics": {
+    "2D+": {
+      "correct": 10,
+      "total": 10
+    },
+    "2D-": {
+      "correct": 10,
+      "total": 10
+    },
+    "3D+": {
+      "correct": 10,
+      "total": 10
+    },
+    "3D-": {
+      "correct": 10,
+      "total": 10
+    },
+    "4D+": {
+      "correct": 10,
+      "total": 10
+    },
+    "4D-": {
+      "correct": 10,
+      "total": 10
+    },
+    "5D+": {
+      "correct": 10,
+      "total": 10
+    },
+    "5D-": {
+      "correct": 9,
+      "total": 10
+    },
+    "2Dx": {
+      "correct": 10,
+      "total": 10
+    },
+    "1DC": {
+      "correct": 10,
+      "total": 10
+    }
+  }
+}

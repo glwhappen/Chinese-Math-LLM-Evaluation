@@ -1,0 +1,5 @@
+.venv
+dataset
+
+test_src
+src/.env
