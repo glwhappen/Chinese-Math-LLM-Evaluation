@@ -1,5 +1,6 @@
 .venv
 dataset
+results
 
 test_src
 src/.env
